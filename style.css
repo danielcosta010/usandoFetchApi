@@ -1,0 +1,20 @@
+
+
+.form-control {
+  margin-bottom: .5rem;
+  padding: .3rem;
+}
+.spiner {
+  /* https://icons8-com.translate.goog/preloaders/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc */
+  background: url(./spiner.gif) left center / 25px 25px no-repeat ;
+  
+}
+.complemento {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  
+} 
+.complemento :nth-of-type(2) {
+  flex-grow: 1;
+}

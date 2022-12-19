@@ -16,11 +16,11 @@
 
 Formulário com preechimento automático, apartir do numero do Cep. Os campos <strong>Rua</strong>, <strong>Bairro</strong>, <strong>Cidade</strong>, <strong>Estado</strong>, são preenchidos automaticamente após o Cep ser validado na Api via cep. Há também mensagens para o usuario caso campo de Cep esteja vazio ou digitado de maneira incorreta.
 
-Este tipo de formulário padroniza os dados que serão recebios no back-end evitando divergência nas informações e enderços errados.
+Este tipo de formulário padroniza os dados que serão recebios no back-end evitando divergência nas informações e endereços errados.
 
 Para acessá-lo [Clique aqui](https://danielcosta010.github.io/usandoFetchApi/).
 
-Foi desenvolvido em HTML5, Css3, Bootstrap e Javasecript.
+Foi desenvolvido em HTML5, Css3, Bootstrap e Javascript.
 
 
 

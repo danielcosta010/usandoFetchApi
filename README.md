@@ -10,7 +10,7 @@
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-<img src="https://github.com/danielcosta010/usandoFetchApi/blob/main/img/capaFormularioCep.png#vitrinedev" alt="Capa Formulario">
+<img src="https://github.com/danielcosta010/usandoFetchApi/blob/main/img/capaFormularioCep.png?raw=true#vitrinedev" alt="Capa Formulario">
 
 ## Detalhes do projeto
 

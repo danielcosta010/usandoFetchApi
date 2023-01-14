@@ -6,7 +6,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Formulario ViaCep**
 | :label: Tecnologias | HTML5, CSS3, Bootstrap5, JavaScript (tecnologias utilizadas)
-| :rocket: URL         | <a href="https://danielcosta010.github.io/usandoFetchApi/">Acesse o Formulário!</a>
+| :rocket: URL         | <a href="https://danielcosta010.github.io/usandoFetchApi/" target="_blank">Acesse o Formulário!</a>
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->

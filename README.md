@@ -11,8 +11,9 @@
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-<img src="https://github.com/danielcosta010/usandoFetchApi/blob/main/img/bannerFormularioCep.png#vitrinedev" alt="Capa do Formulário">
-<img src="https://github.com/danielcosta010/usandoFetchApi/blob/main/img/capaFormularioCep.png?raw=true#vitrinedev" alt="Capa do Formulário">
+<a href='danielcosta010.github.io/usandoFetchApi/' target='_blank'><img src="https://github.com/danielcosta010/usandoFetchApi/blob/main/img/bannerFormularioCep.png#vitrinedev" alt="Capa do Formulário"></a>
+
+<a href='danielcosta010.github.io/usandoFetchApi/' target='_blank'><img src="https://github.com/danielcosta010/usandoFetchApi/blob/main/img/capaFormularioCep.png?raw=true#vitrinedev" alt="Capa do Formulário"></a>
 
 ## Detalhes do projeto
 
